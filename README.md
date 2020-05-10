@@ -1,4 +1,4 @@
-# credrixapp
+# Credrix App
 
 A new Flutter application.
 
